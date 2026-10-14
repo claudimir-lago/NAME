@@ -4,9 +4,9 @@ This directory contains real NAME acquisition data from capillary electrophoresi
 
 File BAH112026.09.15_13h13m57s.dat has:
 
-- time in seconds;
+- time in min;
 - first C4D (not present)
-- second C4D
+- second C4D in arbitrary unity
 - measured current in uA
 - charge in mC
 
