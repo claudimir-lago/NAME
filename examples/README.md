@@ -1,12 +1,13 @@
 # Example data
 
-This directory will contain real NAME acquisition data from capillary electrophoresis experiments.
+This directory contains real NAME acquisition data from capillary electrophoresis experiments.
 
-For the first public release, a compact example should preferably include:
+File BAH112026.09.15_13h13m57s.dat has:
 
 - time in seconds;
-- measured current in nA;
-- enough metadata to identify the acquisition settings;
-- a note describing whether the file is raw or corrected for offset/calibration.
+- first C4D (not present)
+- second C4D
+- measured current in uA
+- charge in mC
 
-These files will provide a simple reference for independent implementations and for testing import into data-analysis software such as Zones.
+These files provide a simple reference for independent implementations and for testing import into data-analysis software such as Zones.
