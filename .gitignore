@@ -1,0 +1,43 @@
+# KiCad local/user files
+*.kicad_prl
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.kicad_pro-bak
+*.kicad_wks-bak
+*-backups/
+_autosave-*
+*.lck
+*.lck~
+~*.lck
+
+# KiCad local history
+.history/
+
+# KiCad caches / generated local data
+fp-info-cache
+*.net
+*.erc
+*.drc
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+*~
+*.swp
+*.swo
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Arduino/build output
+build/
+*.hex
+*.elf
+*.bin
+*.map
+
+# Temporary files
+*.tmp
+*.temp

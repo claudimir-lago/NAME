@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ADS1220_Custom") (type "KiCad") (uri "${KIPRJMOD}/ADS1220_Custom.pretty") (options "") (descr "ADS1220 module footprint"))
+)

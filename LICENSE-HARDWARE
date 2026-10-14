@@ -1,0 +1,18 @@
+NAME hardware design license
+============================
+
+The hardware design files in this repository, including the KiCad schematic,
+PCB layout, project-specific symbol and footprint libraries, and hardware
+fabrication files derived from them, are made available under:
+
+CERN Open Hardware Licence Version 2 - Strongly Reciprocal
+SPDX-License-Identifier: CERN-OHL-S-2.0
+
+Official licence text and documentation:
+https://ohwr.org/licences/
+https://spdx.org/licenses/CERN-OHL-S-2.0.html
+
+Unless explicitly stated otherwise, this hardware licensing notice applies to
+files under hardware/.
+
+Copyright (c) 2026 Claudimir Lago

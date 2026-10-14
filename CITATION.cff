@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use NAME in your work, please cite this repository and the corresponding release."
+title: "NAME: Nanoampere Meter for Electrophoresis"
+type: software
+
+authors:
+  - family-names: "do Lago"
+    given-names: "Claudimir Lucio"
+    affiliation: "Institute of Chemistry, University of São Paulo"
+    orcid: "https://orcid.org/0000-0003-1542-4343"
+
+
+  - family-names: "Verlangieri"
+    given-names: "Ivan"
+    affiliation: "Institute of Chemistry, University of São Paulo"
+
+year: 2026
+keywords:
+  - capillary electrophoresis
+  - electrophoretic current
+  - electrometer
+  - open-source hardware
+  - scientific instrumentation
+
+version: "1.0.0"
+date-released: "2026-10-14"
