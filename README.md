@@ -1,6 +1,6 @@
 # NAME — Nanoampere Meter for Electrophoresis
 
-<img src="images/NAME_assembled.jpeg" alt="NAME hardware" width="500">
+<img src="images/NAME_assembled.jpeg" alt="NAME hardware" width="400">
 
 **NAME** is an open-source hardware project for measuring electrophoretic current in capillary electrophoresis (CE) systems. It is intended especially for CE instruments that do not include their own current-measurement system.
 
